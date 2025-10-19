@@ -12,3 +12,7 @@ $azure-blue: #007FFF;
     background-color: $azure-blue
   ));
 }
+
+.match-input-height {
+  height: var(--mat-form-field-container-height) !important;
+}
